@@ -9,9 +9,12 @@
    
    
 ## Tecnologias Aprendidas:
+
  - HTML.
    
  - CSS.
+
+ - JavaScript.
 
 ## Contatos:
  - E-mail: tamiressilvabezerra05@gmail.com.
