@@ -6,7 +6,10 @@
  - Projeto de JavaScript - 5.
   
  - Projeto construído durante o curso PROPROFISSÃO do Instituto PROA.
-   
+
+# Visualize o site abaixo:
+
+[Veja-o aqui!](https://counter-phi-pied.vercel.app/)
    
 ## Tecnologias Aprendidas:
 
